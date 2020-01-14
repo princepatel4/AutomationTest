@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" >
+    <test name="Introduction" >
+        <classes>
+            <class name="utility.BaseTest"/>
+        </classes>
+    </test>
+    <test name = "Session">
+        <parameter name="playerCount" value="3"/>
+        <classes>
+
+        </classes>
+    </test>
+</suite>
