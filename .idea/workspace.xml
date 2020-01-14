@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -40,7 +43,8 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -157,22 +161,22 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="1081" y="335" key="FileChooserDialogImpl/0.0.2560.1050@0.0.2560.1050" timestamp="1578871138285" />
-    <state width="2517" height="325" key="GridCell.Tab.0.bottom" timestamp="1579029491665">
+    <state width="2517" height="325" key="GridCell.Tab.0.bottom" timestamp="1579029885493">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2517" height="325" key="GridCell.Tab.0.bottom/0.0.2560.1050@0.0.2560.1050" timestamp="1579029491665" />
-    <state width="2517" height="325" key="GridCell.Tab.0.center" timestamp="1579029491665">
+    <state width="2517" height="325" key="GridCell.Tab.0.bottom/0.0.2560.1050@0.0.2560.1050" timestamp="1579029885493" />
+    <state width="2517" height="325" key="GridCell.Tab.0.center" timestamp="1579029885493">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2517" height="325" key="GridCell.Tab.0.center/0.0.2560.1050@0.0.2560.1050" timestamp="1579029491665" />
-    <state width="2517" height="325" key="GridCell.Tab.0.left" timestamp="1579029491665">
+    <state width="2517" height="325" key="GridCell.Tab.0.center/0.0.2560.1050@0.0.2560.1050" timestamp="1579029885493" />
+    <state width="2517" height="325" key="GridCell.Tab.0.left" timestamp="1579029885492">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2517" height="325" key="GridCell.Tab.0.left/0.0.2560.1050@0.0.2560.1050" timestamp="1579029491665" />
-    <state width="2517" height="325" key="GridCell.Tab.0.right" timestamp="1579029491665">
+    <state width="2517" height="325" key="GridCell.Tab.0.left/0.0.2560.1050@0.0.2560.1050" timestamp="1579029885492" />
+    <state width="2517" height="325" key="GridCell.Tab.0.right" timestamp="1579029885493">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2517" height="325" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1579029491665" />
+    <state width="2517" height="325" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1579029885493" />
     <state width="2517" height="352" key="GridCell.Tab.1.bottom" timestamp="1579029005482">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
